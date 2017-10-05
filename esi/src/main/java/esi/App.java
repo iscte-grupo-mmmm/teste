@@ -2,7 +2,7 @@ package esi;
 
 public class App {
 	public String sample() {
-		return "Sample";
+		return "Sample 2";
 	}
 
 	public static void main(String[] args) {
